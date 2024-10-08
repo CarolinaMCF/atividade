@@ -14,3 +14,7 @@ header{
     background-color: #d6eaf8 ;
     margin: 20px 10px;
 }
+
+.cartao__conteudo:hover{
+    transform: sqale(1.02);
+}
