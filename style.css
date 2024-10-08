@@ -11,5 +11,6 @@ header{
     border-radius: 2px;
     box-shadow: 0 4px 6px #acbbc5;
     transition: transform 0.2s;
-    background-color: #61b2e9 ;
+    background-color: #d6eaf8 ;
+    margin: 10px;
 }
